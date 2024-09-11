@@ -19,4 +19,4 @@ Este projeto é um sistema de cadastro de livros desenvolvido como parte de um t
 
 ## Contato
 
-Para mais informações ou dúvidas sobre o projeto, você pode me contatar através do e-mail: kkds.3009@gmail.com.
+Para mais informações ou dúvidas sobre o projeto, você pode nos contatar através dos e-mails: kkds.3009@gmail.com / vitor.dreger05@gmail.com.
